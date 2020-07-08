@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usewindowsize/static/css/main.5f361e03.chunk.css",
+    "main.js": "/usewindowsize/static/js/main.f387e769.chunk.js",
+    "main.js.map": "/usewindowsize/static/js/main.f387e769.chunk.js.map",
+    "runtime-main.js": "/usewindowsize/static/js/runtime-main.b4cd4c9a.js",
+    "runtime-main.js.map": "/usewindowsize/static/js/runtime-main.b4cd4c9a.js.map",
+    "static/js/2.25c5d37d.chunk.js": "/usewindowsize/static/js/2.25c5d37d.chunk.js",
+    "static/js/2.25c5d37d.chunk.js.map": "/usewindowsize/static/js/2.25c5d37d.chunk.js.map",
+    "index.html": "/usewindowsize/index.html",
+    "precache-manifest.05268f6f545f640fb560e56298e90507.js": "/usewindowsize/precache-manifest.05268f6f545f640fb560e56298e90507.js",
+    "service-worker.js": "/usewindowsize/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/usewindowsize/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25c5d37d.chunk.js.LICENSE.txt": "/usewindowsize/static/js/2.25c5d37d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4cd4c9a.js",
+    "static/js/2.25c5d37d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f387e769.chunk.js"
+  ]
+}
