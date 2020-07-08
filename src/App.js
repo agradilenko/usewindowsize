@@ -18,15 +18,21 @@ function useWindowSize() {
 
 function App() {
   const [height, width] = useWindowSize();
+  const divHeight = height / 2;
+  const divWidth = width/2;
   return (
     <div
       className="App"
-      style={{ backgroundColor: "red", width: width, height: height }}
+      style={{ backgroundColor: "red", width: divWidth, height: divHeight, display:"flex", alignItems: "center", justifyContent: "center"  }}
     >
       <p style={{ margin: 0 }}>
-        height: {height}
+        Window height: {height}
         <br />
-        width: {width}
+        Window width: {width}
+        <br />
+        Block height: {divHeight}
+        <br />
+        Block width: {divWidth}
         <br />
       </p>
     </div>
