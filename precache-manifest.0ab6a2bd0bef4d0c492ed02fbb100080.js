@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a962de8473349d048252e1784d3a645",
+    "revision": "1959cd44d4e2aae13d1a60583df58358",
     "url": "/usewindowsize/index.html"
   },
   {
-    "revision": "c4a510a0ddfd90b639a0",
-    "url": "/usewindowsize/static/css/main.5f361e03.chunk.css"
+    "revision": "5a8944b0e17674d4923e",
+    "url": "/usewindowsize/static/css/main.bb16e302.chunk.css"
   },
   {
     "revision": "b28b87bb76bda7186d97",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/usewindowsize/static/js/2.25c5d37d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4a510a0ddfd90b639a0",
-    "url": "/usewindowsize/static/js/main.f387e769.chunk.js"
+    "revision": "5a8944b0e17674d4923e",
+    "url": "/usewindowsize/static/js/main.d7ae459a.chunk.js"
   },
   {
     "revision": "8fcd5a8b491acad26edc",
